@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
   modal('[data-modal]', '.modal', modalTimerId);
   tabs('.tabheader__item', '.tabcontent', '.tabheader__items', 'tabheader__item_active');
   calc();
-  timer('.timer', '2023-05-11');
+  timer('.timer', '2023-08-11');
   slider({
     slide: '.offer__slide',
     prevArrow: '.offer__slider-prev',
